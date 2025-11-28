@@ -1,0 +1,8 @@
+/* Estilo Css para el título*/
+#titulo { 
+        color : red; /* Cambia el color del texto a azul */
+    }
+/* Estilo Css para el texto*/
+    p { 
+        font-family: Arial, sans-serif; /* Cambia la fuente de letra a Arial  */
+    }
